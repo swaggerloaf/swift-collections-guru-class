@@ -1,3 +1,6 @@
+import Foundation
+print ("Hi future Array guru!")
+
 let ingredients: Set = ["cocoa beans", "sugar", "cocoa butter", "salt"]
 
 let othIngredients: Set = ["cocoa beans", "sugar", "cocoa butter", "salt", "pepper"]
